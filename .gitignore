@@ -5,3 +5,4 @@ package-lock.json
 .wordpress
 wp-content/debug.log
 wp-content/database/.ht.sqlite
+wp-content/plugins/user-registration/
